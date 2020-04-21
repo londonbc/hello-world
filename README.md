@@ -8,7 +8,7 @@ new line?
 # head
 ## head2
 1. item1
-  1. item1a
+    1. item1a  
   will this be another item title or the text for item 1a?
     1. item 1ai
     is this the text?
